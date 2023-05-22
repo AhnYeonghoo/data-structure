@@ -1,6 +1,6 @@
 #include "Stack.h"
 
-int main()
+int maintemp()
 {
 	Stack pt(3);
 	
