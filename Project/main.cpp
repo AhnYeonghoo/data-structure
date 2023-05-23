@@ -22,4 +22,5 @@ int maintemp()
 	else
 		std::cout << "The stack is not empty\n";
 	return 0;
+
 }
