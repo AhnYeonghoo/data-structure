@@ -23,7 +23,7 @@ void countSort(vector<int>& input)
 	}
 }
 
-int main()
+int maincc()
 {
 	vector<int> input = { 4, 2, 1, 4, 1, 4, 2, 1, 10 };
 	countSort(input);

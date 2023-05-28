@@ -19,7 +19,6 @@ public:
 	
 	int dequeue();
 	void enqueue(int x);
-	int peek();
 	int size();
 	bool isEmpty();
 	bool isFull();
